@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img
-          src={`${process.env.PUBLIC_URL ?? ''}/logo.svg`}
+          src={`${process.env.PUBLIC_URL ?? ''}/ferrari.webp`}
           className="App-logo"
           alt="logo"
         />
