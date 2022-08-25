@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import { useDispatch, useSelector } from "react-redux";
-import styles from './counter-style.css';
+import styles from './counter.module.css';
 
 import {
     increment,
